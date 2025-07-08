@@ -1,0 +1,7 @@
+{
+  "video_path": "media/sample.mp4",
+  "detection_frame_skip": 5,
+  "min_cosine_similarity": 0.6,
+  "model_path": "yolov8n.pt"
+}
+
