@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.db
+logs/
+media/sample.mp4
+models/
+.idea/
+.DS_Store
+.env
